@@ -1,0 +1,38 @@
+
+
+.ban1{
+    background-size: cover;
+    min-height: 200px;
+    width: 100%;
+}
+
+    
+
+.Ass{
+    text-align: center;
+    position: relative;
+    justify-content: center;
+}
+.margin{
+    margin-top: 20px;
+}
+.age{
+    background-color: rgb(27, 26, 25);
+    margin-bottom: 20px;
+    border: 3px solid black;
+    text-align: center;
+    padding: 10px;
+    border:transparent;
+    
+}
+.card{
+    border-radius: 10px;
+    
+}
+.btn-1{
+    background-color: orange;
+    padding: 5px;
+    box-shadow: 2px 2px;
+    
+
+}
